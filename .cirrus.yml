@@ -4,7 +4,7 @@ env:
     OEM: xiaomi
     DT_LINK: https://github.com/Night-Raids-Reborn/device_xiaomi_chime12 -b pyro
     DT_PATH: device/$OEM/$DEVICE
-    VT_LINK: https://github.com/indraadp/vendor_xiaomi_chime -b pyro
+    VT_LINK: https://github.com/indraadp/vendor_xiaomi_chime -b twelve
     VT_PATH: vendor/$OEM/$DEVICE
     KT_LINK: https://github.com/darknius20/guuji_kernel_juice -b main.stbl
     PLATFORM: bengal
